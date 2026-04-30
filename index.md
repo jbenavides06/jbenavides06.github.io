@@ -6,7 +6,7 @@ and I plan on graduating in 2028.
 
 ## Computer Science Projects
 
-My github page is ttp://github.com/jbenavides06
+My github page is http://github.com/jbenavides06
 
 ### Favorite CPSC 120L Labs 
 
