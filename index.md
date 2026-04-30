@@ -26,7 +26,7 @@ program will fail.
 
 * Lab 5, Part-2
 
-Same as Lab 5, Part-1 but instead you try to convert decimal feet to feet and- 
+Same as Lab 5, Part-1 but instead you try to convert decimal feet to feet and 
 inches. It was cool to include the trunc() function to convert to
 the nearest integer but it was annoying as if you didn't include the function
 correctly, you will get a zero instead of the number you want or the program
