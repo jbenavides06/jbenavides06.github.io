@@ -1,7 +1,7 @@
 
 # Jonathan Benavides' Portfolio 
 
-I am a computer science major and I plan on graduating in 2028
+I am a computer science major and I plan on graduating in 2028.
 
 ## Favorite CPSC 120L Labs 
 
