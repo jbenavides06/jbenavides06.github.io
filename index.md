@@ -1,7 +1,7 @@
 
-# Jonathan Benavides' Portfolio 
+# Hello World
 
-My name is Jonathan, I am a computer science major at Cal State Fullerton
+This is my home page! My name is Jonathan, I am a computer science major at [Cal State Fullerton](http://www.fullerton.edu/)
 and I plan on graduating in 2028.
 
 ## Computer Science Projects
