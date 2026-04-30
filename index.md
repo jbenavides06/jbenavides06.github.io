@@ -1,14 +1,21 @@
 
 # Jonathan Benavides' Portfolio 
 
-I am a computer science major and I plan on graduating in 2028.
+My name is Jonathan, I am a computer science major at Cal State Fullerton
+and I plan on graduating in 2028.
 
-## Favorite CPSC 120L Labs 
+## Computer Science Projects
+
+My github page is ttp://github.com/jbenavides06
+
+### Favorite CPSC 120L Labs 
 
 * Lab 3, Part-1
 
 This is one of my favorites because it was challenging calculating the BMR for
-both men and women in which I had to implement the equation using doubles.
+both men and women as I had to implement the equation using doubles
+and had to hold values using variables which I thought was fun to do with my
+partner.
 
 * Lab 5, Part-1 
 
