@@ -19,10 +19,10 @@ partner.
 
 * Lab 5, Part-1 
 
-Also one of my favorites because I worked with multiple files which was
-challenging since you had to make sure some parameters were added correctly or
+Also one of my favorites since I worked with multiple files which was
+challenging but fun. You had to make sure some parameters were added correctly or
 you had to initialize correctly or else you will get an error and your whole
-program will fail
+program will fail.
 
 * Lab 5, Part-2
 
